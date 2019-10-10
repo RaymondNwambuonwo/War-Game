@@ -10,6 +10,11 @@ const cardRank = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 // first loop goes through the suits
 // second loop goes through card values
 // Lastly an action is invoked to assign values and suits to cards object.
+// for (let k = 0; k < ranking.length; k++)
+// {, this didnt work because its basically making our loop, 
+// loop to the power of three and throw us off. 
+// instead we just pust that ranking Array and attach it the j loop so it goes in the same time as cardValues. 
+// so rank: ranking[j]. fuck yeah bitch lmao!!!
 function arrangeDeck() {
     
     for (let i = 0; i < suits.length; i++) {
