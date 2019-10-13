@@ -33,6 +33,16 @@ class Deck {
   
       return this.player1, this.player2
     }
+
+    play() {
+        this.player1 = Math.floor(Math.random() * this.player1--);
+        this.player2 = Math.floor(Math.random() * this.player2--);
+        if(this.player1 > this.player2) {
+          console.log("Player 1 is the winner!");
+        } else if (this.player1 < this.player2) {
+          console.log("Player 2 is the winner!");
+         }
+      }
   //Play function logic
   
   //Each player shoud play a card
