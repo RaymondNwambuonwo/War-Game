@@ -18,13 +18,13 @@ You will need install a text editor in order to view the code as well as edit it
 To run the game you will need to open the code in your text editor, right click in the index.html file to open in browser. Once page is open in browser, right click anywhere in page and click inspect. On the right side of the page a menu of sorts will show, in the top tabs click the console tab and from there you will see the game has initialized a round with a winner. To note, the game play a new round everytime you relaod the page.
 
 ## Built With
-⋅⋅* [Visual Studio Code](https://code.visualstudio.com/) 
+** [Visual Studio Code](https://code.visualstudio.com/) 
 
 ## Contribution
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 ## Author
-⋅⋅* **Raymond Nwambuonwo** - [https://github.com/RaymondNwambuonwo](https://github.com/RaymondNwambuonwo)
+** Raymond Nwambuonwo** - [https://github.com/RaymondNwambuonwo](https://github.com/RaymondNwambuonwo)
 
 ## Acknowledgement 
 Thank you to: 
