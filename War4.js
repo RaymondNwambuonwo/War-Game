@@ -57,11 +57,11 @@ class Deck {
       endGame() {
           if (deck1.player1.length > deck1.player2.length) {
               console.log(`Player 1 got ${deck1.player1.length} cards, and player 2 has ${deck1.player2.length} cards`)
-              console.log('Player 1 went crazy on player 2 OMG')
+              console.log('Player 1 went crazy on player 2 OMG!')
           }
           else {
               console.log(`Player 2 got ${deck1.player2.length} cards, and player 1 has ${deck1.player1.length} cards`)
-              console.log('Player 2 wilded on player 1')
+              console.log('Player 2 came back with a vengance on player 1!')
           }
       }
     }
