@@ -1,11 +1,12 @@
 #War Card Game
 This project was based upon creating a Javascript console card game, specifically the card game _I Declare War_**.
 
+
 ##Getting Started 
 Below you will see how my game came to be. In order to view and/or contribute you will need something to do so, which will be explained below. 
 
 ##Prerequisites 
-Thing(s) that you need to install beforehand in order to view/run the game.
+Thing(s) that you need to install beforehand in order to view/edit/run the game.
 
 ##Program Installation
 You will need install a text editor in order to view the code as well as edit it. You can install any text editor of your choosing such as Sublime, Atom, or Visual Studio Code to name a few. The links below will lead you directly to the installation page. 
