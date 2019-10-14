@@ -27,5 +27,5 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Acknowledgement 
 Thank you to: 
--Roger Campbell II for the help, motivation, and inspiration.
--Chi-Chi for being a helpful and insightful classmate. 
+- Roger Campbell II for the help, motivation, and inspiration.
+- Chi-Chi for being a helpful and insightful classmate. 
